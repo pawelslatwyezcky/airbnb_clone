@@ -4,6 +4,8 @@
 
 This is a pet-project for mastering Next.js and new App Router skills. Simplified version of airbnb.com with functionality to sign up/login, making reservations, listing own property etc.
 
+Live link: https://rentapp-five.vercel.app/.
+
 ## Getting Started
 
 1.Clone the repository to your local machine using git clone https://github.com/pawelslatwyezcky/airbnb_clone.  

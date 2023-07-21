@@ -2,7 +2,7 @@
 
 ![Homepage](https://github.com/pawelslatwyezcky/airbnb_clone/blob/main/airbnb_clone_homepage.png?raw=true)
 
-This is a pet-project for mastering Next.js and new App Router skills. Simplified version of airbnb.com with functionality to sign up/login, making reservations, listing own property etc. 
+This is a pet-project for mastering Next.js and new App Router skills. Simplified version of airbnb.com with functionality to sign up/login, making reservations, listing own property etc.
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ This is a pet-project for mastering Next.js and new App Router skills. Simplifie
 **Next.js 13 (with App Router)**  
 **Typescipt**  
 **Prisma**  
+**MongoDB**
 **Tailwind CSS**
 **Leaflet**
 

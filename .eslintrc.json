@@ -1,8 +1,3 @@
 {
-  "extends": "next/core-web-vitals",
-  "plugins": ["@kalimahapps/eslint-plugin-tailwind"],
-  "rules": {
-    "@kalimahapps/tailwind/sort": "warn",
-    "@kalimahapps/tailwind/multiline": "warn"
-  }
+  "extends": "next/core-web-vitals"
 }
